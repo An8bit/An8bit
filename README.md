@@ -33,7 +33,8 @@
 <span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visualstudio&logoColor=#5C2D91" alt="Visual Studio" title="Visual Studio" height="25" /></span>
 &nbsp;
 <h2 align="center">💬 Contact 💬</h2><br>
-<span><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=007ACC" alt="https://www.facebook.com/ansosad3k" title="Facebook" height="25" /></span>
+
+<span><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=007ACC" alt="" title="Facebook" height="25" /><a href="https://www.facebook.com/ansosad3k"></a></span>
 &nbsp;
 <!--
 **An8bit/An8bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
