@@ -34,8 +34,8 @@
 &nbsp;
 <h2 align="center">💬 Contact 💬</h2><br>
 
-<span><img align="center" src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=007ACC" alt="" title="Facebook" height="25" /><a href="https://www.facebook.com/ansosad3k"></a></span>
-&nbsp;
+<a align="center" href="https://www.facebook.com/ansosad3k" style="text-decoration: none;"><span><img  src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=007ACC" alt="" title="Facebook" height="25" /></span>
+    &nbsp;</a>
 <!--
 **An8bit/An8bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
