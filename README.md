@@ -8,11 +8,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
@@ -21,12 +17,6 @@
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%20sharp-282C34?logo=csharp&logoColor=#452170" alt="Csharp" title="Csharp" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=Python&logoColor=#3776AB" alt="Python" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Adobe%20Photoshop-282C34?logo=adobephotoshop&logoColor=#31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Adobe%20Premierepro-282C34?logo=adobepremierepro&logoColor=#9999FF" alt="Adobe Premierepro" title="Adobe Premierepro" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="Figma" title="Figma" height="25" /></span>
 &nbsp;
