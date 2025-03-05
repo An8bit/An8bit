@@ -56,9 +56,7 @@
   <a href="https://github.com/An8bit/MeoChill">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=An8bit&repo=MeoChill&theme=tokyonight" alt="MeoChill Repo">
   </a>
-  <a href="https://github.com/An8bit/WedQuanLyNgheNhac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=An8bit&repo=WedQuanLyNgheNhac&theme=tokyonight" alt="WedQuanLyNgheNhac Repo">
-  </a>
+
 </div>
 
 <h2 align="center">✨ Core Expertise</h2>
